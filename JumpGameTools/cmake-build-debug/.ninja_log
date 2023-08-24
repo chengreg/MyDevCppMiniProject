@@ -1,0 +1,5 @@
+# ninja log v5
+8	1509	7145179468134558	CMakeFiles/JumpGameTools.dir/main.cpp.obj	48a84060e81c13dd
+0	1942	7145195148424860	CMakeFiles/JumpGameTools.dir/plus.cpp.obj	d48eba015c4c4718
+1943	2061	7145195149555209	JumpGameTools.exe	c13adbab4e79e9cc
+2	142	7145208829354979	build.ninja	e9b46f408f4aa6cd

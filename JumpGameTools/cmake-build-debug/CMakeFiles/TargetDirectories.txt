@@ -1,0 +1,3 @@
+C:/Users/Chen GangQiang/Desktop/git/CppProject/JumpGameTools/cmake-build-debug/CMakeFiles/JumpGameTools.dir
+C:/Users/Chen GangQiang/Desktop/git/CppProject/JumpGameTools/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Chen GangQiang/Desktop/git/CppProject/JumpGameTools/cmake-build-debug/CMakeFiles/rebuild_cache.dir
